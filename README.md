@@ -51,3 +51,4 @@ Run command in deploy folder - python3 update-ecs.py --cluster=production-cluste
 
 13 ) terraform destroy
 
+
